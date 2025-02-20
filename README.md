@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+Сказано написать о себе. Дима 22 годика, учусь в КГТУ, 3 курс Прикладной информатике в экономике. Все.
